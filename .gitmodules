@@ -5,3 +5,6 @@
 [submodule "luajr"]
 	path = luajr
 	url = https://github.com/nicholasdavies/luajr
+[submodule "overshiny"]
+	path = overshiny
+	url = https://github.com/nicholasdavies/overshiny
