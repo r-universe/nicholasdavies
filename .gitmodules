@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "inshiny"]
+	path = inshiny
+	url = https://github.com/nicholasdavies/inshiny
 [submodule "luajr"]
 	path = luajr
 	url = https://github.com/nicholasdavies/luajr
